@@ -171,7 +171,7 @@
 
 /obj/item/weapon/rig/hazmat/equipped
 
-	req_access = list(access_rd)
+	req_access = list(access_research) //Vorestation edit
 
 	initial_modules = list(
 		/obj/item/rig_module/ai_container,
